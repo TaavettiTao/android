@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android使用静态变量传递数据</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="buttonText">使用静态变量在Activity之间传递数据</string>
+    
+
+</resources>
