@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+    <!-- android:id="@+id:button"button的id
+         android:layout_width="match_parent":宽度自适应为父窗口宽度
+         android:layout_height="wrap_content"：高度适应内容所需高度
+         android:text="测试Intent(意图)在Activity之间传递数据"：按钮显示的文本
+     -->
+    <Button android:id="@+id/button" 
+        android:layout_width="match_parent"  
+        android:layout_height="wrap_content"
+        android:text="测试Intent(意图)在Activity之间传递数据"
+        />
+</RelativeLayout>

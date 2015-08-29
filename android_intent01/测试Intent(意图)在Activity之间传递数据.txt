@@ -1,0 +1,8 @@
+第一步：在主Activity的布局文件main.xml中定义一个button
+第二步：在主Activity初始化时,即onCreate中获取button,并为其绑定单击事件
+                在单击事件中初始化意图，并启动意图
+第三步：创建在创建意图时，意图传递数据的目标Activity,即OtherActivity类
+第四步：在OtherActivity的布局文件中定义显示文本对象，之后在其onCreate方法中获取该对象，
+                并获取意图对象中传递的参数，将其设置到显示文本
+第五步：在AndroidManifest.xml主配置文件中配置目标Activity(必须，否则程序找不到该Activity)
+第六步:运行模拟器即可查看效果
