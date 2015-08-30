@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android使用意图传递数据之全局变量传递</string>
+    <string name="buttonText">android使用意图传递数据之全局变量传递</string>
+
+</resources>

@@ -1,0 +1,6 @@
+Android中的全局对象非常类似于Java Web中的Application域，
+除非是Android应用程序清除内存，否则全局对象将一直可以访问
+1、程序中定义应用的全局对象需继承：android.app.Application
+2、需在AndroidManifest.xml文件中配置
+       例：<application android:name=".MyApp" ..../>
+3、在程序中通过getApplication()获取全局对象
