@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android使用意图传递数据之剪切板传递</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="buttonText">使用意图传递数据之剪切板传递</string>
+</resources>
