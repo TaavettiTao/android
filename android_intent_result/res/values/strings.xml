@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android使用意图传递数据之返回结果</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button1Text">传递数据</string>
+    <string name="buttonText">返回结果</string>
+
+</resources>
